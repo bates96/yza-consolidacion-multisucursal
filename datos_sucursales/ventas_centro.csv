@@ -1,0 +1,4 @@
+id_venta,producto,cantidad,precio_unitario
+V_CEN_01,PARACETAMOL,5,15.50
+V_CEN_02,LORATADINA,2,30.00
+V_CEN_03,OMEPRAZOL,10,20.00

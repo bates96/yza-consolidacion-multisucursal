@@ -1,0 +1,4 @@
+id_venta,producto,cantidad,precio_unitario
+V_CAU_01,PARACETAMOL,8,15.50
+V_CAU_02,OMEPRAZOL,4,20.00
+V_CAU_03,LORATADINA,1,30.00
